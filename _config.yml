@@ -1,8 +1,8 @@
 # Site settings
-title: ThemeEdge
+title: Lacuna Edge
 email: lacunaedge@gmail.com
 url: https://lacunaedge.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Experts in engineering."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
