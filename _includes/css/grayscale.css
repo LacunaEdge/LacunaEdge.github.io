@@ -61,7 +61,9 @@ a:focus {
     font-weight: 400;
 }
 
-
+b {
+    float:left;
+}
 
 .navbar-custom {
     margin-bottom: 0;
