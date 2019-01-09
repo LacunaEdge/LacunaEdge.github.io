@@ -44,6 +44,10 @@ p {
     }
 }
 
+b {
+    float:left;
+}
+
 a {
     color: {{ site.color.links }};
     -webkit-transition: all .2s ease-in-out;
@@ -61,9 +65,7 @@ a:focus {
     font-weight: 400;
 }
 
-b {
-    float:left;
-}
+
 
 .navbar-custom {
     margin-bottom: 0;
